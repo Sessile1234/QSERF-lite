@@ -102,7 +102,7 @@ int main() {
         }
 
         if (temperature >= 3500) {
-            cout << "\nFASS: Warning: Superstructure rupture detected!\n";
+            cout << "\nFAAS: Warning: Superstructure rupture detected!\n";
             cout << "FAAS: Engage cooling systems immediately.\n";
 
             double superstructureDamage = 100.0;
